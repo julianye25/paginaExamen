@@ -78,10 +78,10 @@ header .nav a {
 .namePrice-info {
   padding-top: 50px;
   padding-left: 50px;
-  color: white;
+  color: red;
 }
 
-.namePrice-info h1 {
+.namePrice-info h2 {
   font-size: 48px;
   line-height: 16px;
   margin-bottom: 20px;
